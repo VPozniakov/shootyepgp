@@ -399,7 +399,10 @@ local prices = {
   [21613] = {88,"T2.5"}; --Wormhide Boots 
   [60003] = {152,"T2.5"}; --Remnants of an Old God
   [41077] = {124,"T2.5"}; --Yshgo'lar, Cowl of Fanatical Devotion
-
+    ---Ouro loot, patch 1.17.2---
+  [21614] = {4,"T2.5"}; --Wormhide Protector
+--  [No ID] = {80,"T2.5"}; --Carapace Handguards
+--  [No ID] = {80,"T2.5"}; --Gloves of the Primordial Burrower
 
     -----------------------
     --- Emerald Sanctum ---
